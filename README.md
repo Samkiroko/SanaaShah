@@ -14,10 +14,10 @@
 
 ![](https://github.com/SanaaShah/SanaaShah/blob/master/opencv.png?raw=true) ![](https://github.com/SanaaShah/SanaaShah/blob/master/docker.png?raw=true) ![](https://github.com/SanaaShah/SanaaShah/blob/master/java.png?raw=true) ![](https://github.com/SanaaShah/SanaaShah/blob/master/amazon.png?raw=true) ![](https://github.com/SanaaShah/SanaaShah/blob/master/unity.png?raw=true) ![](https://github.com/SanaaShah/SanaaShah/blob/master/matlab.png?raw=true) ![](https://github.com/SanaaShah/SanaaShah/blob/master/csharp.png?raw=true) ![](https://github.com/SanaaShah/SanaaShah/blob/master/pytorch.png?raw=true) 
 
-![](https://github.com/ahmedkhan36/ahmedkhan36/blob/master/contact.jpg?raw=true)
+![](https://github.com/SanaaShah/SanaaShah/blob/master/contact.jpg?raw=true)
 
 <p align="center">
- <a href="https://www.linkedin.com/in/sana-shah-605249178/">  <img src="https://github.com/ahmedkhan36/ahmedkhan36/blob/master/linkedin.png" /> </a>
- <a href="https://twitter.com/SanashahS">  <img src="https://github.com/ahmedkhan36/ahmedkhan36/blob/master/twitter.png" />  </a>
- <a href="https://sites.google.com/view/myemail323232/">  <img src="https://github.com/ahmedkhan36/ahmedkhan36/blob/master/gmail.png" />    </a>
+ <a href="https://www.linkedin.com/in/sana-shah-605249178/">  <img src="https://github.com/SanaaShah/SanaaShah/blob/master/linkedin.png" /> </a>
+ <a href="https://twitter.com/SanashahS">  <img src="https://github.com/SanaaShah/SanaaShah/blob/master/twitter.png" />  </a>
+ <a href="https://sites.google.com/view/myemail323232/">  <img src="https://github.com/SanaaShah/SanaaShah/blob/master/gmail.png" />    </a>
 </p>
