@@ -1,16 +1,24 @@
-### Hi there 👋
+![gif_toss](https://github.com/SanaaShah/SanaaShah/blob/master/file.gif?raw=true)
 
-<!--
-**SanaaShah/SanaaShah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🟢 I’m currently working on        : ![alt text](https://github.com/SanaaShah/SanaaShah/blob/master/python.jpg?raw=true), ![](https://github.com/SanaaShah/SanaaShah/blob/master/anaconda.jpg?raw=true)            
 
-Here are some ideas to get you started:
+🟢 I’m currently learning          : ![](https://github.com/SanaaShah/SanaaShah/blob/master/car.png?raw=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🟢 I’m looking to collaborate on   : ![](https://github.com/SanaaShah/SanaaShah/blob/master/kaggle.png?raw=true)
+
+🟢 Ask me about anything related to:  ![](https://github.com/SanaaShah/SanaaShah/blob/master/ai.png?raw=true)
+
+🟢 Fun fact: ![](https://github.com/SanaaShah/SanaaShah/blob/master/funfact.png?raw=true)
+
+![](https://github.com/SanaaShah/SanaaShah/blob/master/skill.jpg?raw=true)
+
+![](https://github.com/SanaaShah/SanaaShah/blob/master/opencv.png?raw=true) ![](https://github.com/SanaaShah/SanaaShah/blob/master/docker.png?raw=true) ![](https://github.com/SanaaShah/SanaaShah/blob/master/java.png?raw=true) ![](https://github.com/SanaaShah/SanaaShah/blob/master/amazon.png?raw=true) ![](https://github.com/SanaaShah/SanaaShah/blob/master/unity.png?raw=true) ![](https://github.com/SanaaShah/SanaaShah/blob/master/matlab.png?raw=true) ![](https://github.com/SanaaShah/SanaaShah/blob/master/csharp.png?raw=true) ![](https://github.com/SanaaShah/SanaaShah/blob/master/pyth.png?raw=true)
+![](https://github.com/SanaaShah/SanaaShah/blob/master/pytorch.png?raw=true) 
+
+![](https://github.com/ahmedkhan36/ahmedkhan36/blob/master/contact.jpg?raw=true)
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/sana-shah-605249178/">  <img src="https://github.com/ahmedkhan36/ahmedkhan36/blob/master/linkedin.png" /> </a>
+ <a href="https://twitter.com/SanashahS">  <img src="https://github.com/ahmedkhan36/ahmedkhan36/blob/master/twitter.png" />  </a>
+ <a href="https://sites.google.com/view/myemail323232/">  <img src="https://github.com/ahmedkhan36/ahmedkhan36/blob/master/gmail.png" />    </a>
+</p>
