@@ -12,8 +12,7 @@
 
 ![](https://github.com/SanaaShah/SanaaShah/blob/master/skill.jpg?raw=true)
 
-![](https://github.com/SanaaShah/SanaaShah/blob/master/opencv.png?raw=true) ![](https://github.com/SanaaShah/SanaaShah/blob/master/docker.png?raw=true) ![](https://github.com/SanaaShah/SanaaShah/blob/master/java.png?raw=true) ![](https://github.com/SanaaShah/SanaaShah/blob/master/amazon.png?raw=true) ![](https://github.com/SanaaShah/SanaaShah/blob/master/unity.png?raw=true) ![](https://github.com/SanaaShah/SanaaShah/blob/master/matlab.png?raw=true) ![](https://github.com/SanaaShah/SanaaShah/blob/master/csharp.png?raw=true) ![](https://github.com/SanaaShah/SanaaShah/blob/master/pyth.png?raw=true)
-![](https://github.com/SanaaShah/SanaaShah/blob/master/pytorch.png?raw=true) 
+![](https://github.com/SanaaShah/SanaaShah/blob/master/opencv.png?raw=true) ![](https://github.com/SanaaShah/SanaaShah/blob/master/docker.png?raw=true) ![](https://github.com/SanaaShah/SanaaShah/blob/master/java.png?raw=true) ![](https://github.com/SanaaShah/SanaaShah/blob/master/amazon.png?raw=true) ![](https://github.com/SanaaShah/SanaaShah/blob/master/unity.png?raw=true) ![](https://github.com/SanaaShah/SanaaShah/blob/master/matlab.png?raw=true) ![](https://github.com/SanaaShah/SanaaShah/blob/master/csharp.png?raw=true) ![](https://github.com/SanaaShah/SanaaShah/blob/master/pytorch.png?raw=true) 
 
 ![](https://github.com/ahmedkhan36/ahmedkhan36/blob/master/contact.jpg?raw=true)
 
